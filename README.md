@@ -21,6 +21,10 @@ I'm Ananya, a high school student from West Bengal, India. I built MindfulAI bec
 MindfulAI is not a replacement for therapy. It is a **first step** — a safe space to process feelings, track moods, and receive empathetic, evidence-informed support at 2am when there's no one else to talk to.
 
 ---
+App Building
+Currently created a temporaray app called "Calm Amber". Documentation:https://drive.google.com/file/d/1Zaa1Gdh0X-cH2JmrDdrE28J6ly9ZpIT-/view?usp=drive_link
+
+
 
 ##  Features
 
@@ -142,7 +146,7 @@ MindfulAI's response design draws on:
 - **Motivational Interviewing** — open-ended questions that encourage self-reflection rather than giving advice
 - **Positive Psychology** — strength-based language, gratitude prompts, small wins
 
-> 📄 Read the full research article: [`docs/research_article.pdf`]https://drive.google.com/file/d/1xwomrskHZgU5SJUZHI66cFOtMwi38XfI/view?usp=sharing
+> 📄 Read the full research article:https://drive.google.com/file/d/1xwomrskHZgU5SJUZHI66cFOtMwi38XfI/view?usp=sharing
 > 📘 Read the project report:https://drive.google.com/file/d/1eZwaadPP9ZJaYmA4QMYuTEFFRLpwBh4l/view?usp=sharing
 
 
