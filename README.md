@@ -142,8 +142,10 @@ MindfulAI's response design draws on:
 - **Motivational Interviewing** — open-ended questions that encourage self-reflection rather than giving advice
 - **Positive Psychology** — strength-based language, gratitude prompts, small wins
 
-> 📄 Read the full research article: [`docs/research_article.pdf`](docs/research_article.pdf)
-> 📘 Read the project report: [`docs/project_report.pdf`](docs/project_report.pdf)
+> 📄 Read the full research article: [`docs/research_article.pdf`]https://drive.google.com/file/d/1xwomrskHZgU5SJUZHI66cFOtMwi38XfI/view?usp=sharing
+> 📘 Read the project report:https://drive.google.com/file/d/1eZwaadPP9ZJaYmA4QMYuTEFFRLpwBh4l/view?usp=sharing
+
+
 
 ---
 """
